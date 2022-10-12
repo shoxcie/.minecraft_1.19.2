@@ -1,6 +1,6 @@
 
 [general]
-	"Max Distance" = 64
+	"Max Distance" = 48
 	"Render with Interface Disabled (F1)" = false
 	"Height Above Mob" = 0.6
 	"Draw Background" = true
